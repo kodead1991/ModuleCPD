@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SKfPBh12Dz8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Professional\\Documents\\GitHub\\ModuleCPD\\ModuleCPD\\ModuleCPD.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Professional\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.8\\microsoft.aspnetcore.openapi.9.0.8.nupkg.sha512",
+    "C:\\Users\\Professional\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

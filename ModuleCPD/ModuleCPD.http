@@ -1,0 +1,6 @@
+@ModuleCPD_HostAddress = http://localhost:5259
+
+GET {{ModuleCPD_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
